@@ -1,4 +1,2 @@
-===== Performance Test Start =====
-Vector time: 5569.05 ms
-ArrayList time: 4782.75 ms
-===== Performance Test End =====
+ArrayDeque time: 50.51375 ms\n
+Vector time: 111.317167 ms
