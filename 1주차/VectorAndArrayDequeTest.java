@@ -1,5 +1,3 @@
-package org.yogiyo;
-
 import java.util.*;
 
 public class VectorAndArrayDequeTest {
